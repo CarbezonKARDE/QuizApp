@@ -12,6 +12,11 @@ This project is a simple Java-based quiz application with a graphical user inter
 
 ![Application Screenshot](screenshot.png)
 
+## Flowchart
+
+![Flowchart](flowchart.png)
+
+
 ## How to Run
 
 1. **Clone the repository**:
