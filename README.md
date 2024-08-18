@@ -8,6 +8,10 @@ This project is a simple Java-based quiz application with a graphical user inter
 - **Score tracking**: The application keeps track of the user's score as they progress through the quiz.
 - **Results display**: After completing the quiz, the user's score is displayed, and they are given the option to close the application.
 
+## Screenshot
+
+![Application Screenshot](screenshot.png)
+
 ## How to Run
 
 1. **Clone the repository**:
@@ -59,10 +63,6 @@ To add or modify questions:
                 "D) It is used to specify the entry point of a Java program"),
         'C'));
     ```
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
